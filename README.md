@@ -1,2 +1,2 @@
-# SRE-mainshi
+# SRE-mianshi
 SRE面试八股
